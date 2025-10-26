@@ -38,7 +38,7 @@ def main():
                 c = Contact(name, phone, email)
                 contactList.add_contact(c)
             case 2:
-                query = input("Entrez le nom ou email du contact recherché")
+                query = input("Entrez le nom ou email du contact recherché: ")
                 contactList.find_contact(query)
             case 3:
                 name = input("Enter the name of contact to delete: ")
