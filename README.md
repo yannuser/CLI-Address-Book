@@ -41,7 +41,7 @@ address_book/
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/<your-username>/address_book.git
+   git clone https://github.com/yannuser/CLI-Address-Book.git
    cd address_book
    ```
 2. **Run the app:**
